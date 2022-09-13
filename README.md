@@ -9,4 +9,4 @@ Have you ever had a seemingly random combination of ingredients at home? Sick of
 ### Tech-stack: 
 Front-end: React, TypeScript, HTML/CSS via Material UI.\
 Back-end: Node JS, Express JS, Firebase.\
-Other: Draw.io, Figma, Namecheap, Jira, Github.
+Other: Draw.io, Figma, Namecheap, Jira (Kanban), Github.
