@@ -12,7 +12,7 @@ Have you ever had a seemingly random combination of ingredients at home? Sick of
 
 Front-end: React, TypeScript, HTML/CSS via Material UI.\
 Back-end: Node JS, Express JS, Firebase.\
-Other: Draw.io, Figma, Namecheap, Jira (Kanban), Github (with Github Actions CI/CD Automation).
+Other: Draw.io, Figma, Namecheap, Jira (Kanban, issues), Github (with Github Actions CI/CD Automation).
 
 ### Jira:
 
