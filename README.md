@@ -1,5 +1,9 @@
 # lookBook
 
+Usage: 
+Firebase deployment is live at: https://lookbook-eb869.web.app/
+index.html is available in server/client/build/index.html
+
 ### Product Description
 
 A cook-book style web application that recommends recipes based on a user's available ingredients at home. Users have the ability to save, create and share recipe cards with others, aswell as chat via an integrated, real time chat system.
