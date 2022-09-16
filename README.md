@@ -1,7 +1,8 @@
 # lookBook
 
 Usage: 
-Firebase deployment is live at: https://lookbook-eb869.web.app/\
+Firebase deployment is live at: https://lookbook-eb869.web.app/
+
 index.html is available in server/client/build/index.html
 
 ### Product Description
