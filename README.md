@@ -4,6 +4,7 @@ Usage:
 Firebase deployment is live at: https://lookbook-eb869.web.app/
 
 index.html is available in server/client/build/index.html
+to run app "npm start" 
 
 ### Product Description
 
